@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InputDataSederhana</string>
+    <string name="Label1">Masukan Nama Anda</string>
+    <string name="ButtonValue">Tampilkan</string>
+</resources>
